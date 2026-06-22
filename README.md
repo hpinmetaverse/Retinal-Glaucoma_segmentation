@@ -1,7 +1,6 @@
 # Retinal Glaucoma Segmentation
 
-Production-ready TensorFlow implementation of a U-Net model for simultaneous optic disc and optic cup segmentation on retinal fundus images from the DRISTI dataset.
-
+Production-ready TensorFlow implementation of a U-Net model for simultaneous optic disc and optic cup segmentation on retinal fundus images.
 ## Project Overview
 
 This repository trains a multi-channel U-Net to segment two anatomical structures in retinal fundus images:
