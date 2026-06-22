@@ -1,0 +1,14 @@
+dataset/
+data/
+*.h5
+*.keras
+*.ckpt
+outputs/*
+!outputs/.gitkeep
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+venv/
+.env
